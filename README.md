@@ -59,3 +59,114 @@ Writing user stories for my own project helped me better understand the features
 Overall, this week helped me think more about planning and design rather than just coding.
 
 ---
+
+## Week 9 (Mar 2)
+
+### Activities
+- Learned about design patterns
+- Read the Application Development Coding Project assignment
+- Reviewed the Research and Reflection Journal guide
+- Read “How to Contribute to Open Source”
+- Explored GitHub repositories for potential contributions
+- Identified three possible open source projects
+- Started planning my coding project
+
+---
+
+### Design Patterns Research
+
+This week I learned about design patterns, which are reusable solutions to common programming problems. They help improve code organization, readability, and maintainability. :contentReference[oaicite:0]{index=0}
+
+I researched four design patterns:
+
+**1. Singleton Pattern**
+- Ensures only one instance of a class exists
+- Example: Database connection
+- Useful in backend systems
+
+**2. Observer Pattern**
+- Allows objects to be notified when something changes
+- Example: Notifications system
+- Useful for real-time updates
+
+**3. Factory Pattern**
+- Creates objects without specifying exact class
+- Example: Creating different user roles (Admin, User)
+- Helps keep code flexible
+
+**4. Strategy Pattern**
+- Allows switching between different behaviors
+- Example: Task sorting (priority, deadline)
+- Improves flexibility in logic
+
+These patterns helped me understand how to structure my future backend code.
+
+---
+
+### Open Source Contribution Research
+
+I read GitHub’s “How to Contribute to Open Source” guide. I learned that contributing is not only about writing code, but also includes:
+- fixing bugs
+- improving documentation
+- reporting issues
+- helping the community
+
+One important concept was understanding how to find beginner-friendly issues using tags like "good first issue".
+
+---
+
+### Potential Projects to Contribute To
+
+I explored platforms like Good First Issue and Up For Grabs.
+
+**Project 1: FreeCodeCamp**
+- https://github.com/freeCodeCamp/freeCodeCamp
+- A large learning platform for web development
+- Many beginner-friendly issues
+- Strong documentation and community
+
+**Project 2: Appwrite**
+- https://github.com/appwrite/appwrite
+- Backend-as-a-service platform
+- Uses modern technologies
+- Active contributors and clear issue tracking
+
+**Project 3: First Contributions**
+- https://github.com/firstcontributions/first-contributions
+- Designed for beginners
+- Helps users learn how to contribute to open source
+
+From these, I found that beginner-friendly projects clearly label issues and provide contribution guidelines.
+
+---
+
+### Community Exploration
+
+I noticed that many open source projects use platforms like Discord and GitHub Discussions to communicate. These communities help contributors ask questions and collaborate effectively.
+
+---
+
+### Coding Project Progress
+
+This week I started planning my application development project, which is a task management system.
+
+I:
+- reviewed the assignment requirements
+- started thinking about features such as task creation, filtering, and analytics
+- considered the technology stack (HTML, CSS, JavaScript, Node.js, MongoDB)
+
+---
+
+### Reflection
+
+This week helped me understand how professional software development works, especially through design patterns and open source collaboration.
+
+Learning about design patterns made me realize that writing code is not just about making it work, but also making it maintainable and scalable.
+
+The open source research showed me that contributing does not always require advanced skills, and there are many beginner-friendly opportunities.
+
+Overall, this week improved my understanding of how real-world software projects are structured and maintained.
+
+---
+
+
