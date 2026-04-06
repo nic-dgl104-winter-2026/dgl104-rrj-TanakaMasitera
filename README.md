@@ -258,3 +258,121 @@ I overcame this challenge by following documentation carefully and breaking the 
 Learning about MV* patterns helped me understand how to organize my own project better. I realized that separating UI, logic, and data makes the application easier to manage and scale.
 
 Overall, this week improved my understanding of both real-world collaboration and application architecture.
+
+---
+
+## Week 11 (Mar 17)
+
+### Activities
+- Learned about Object-Oriented Programming (OOP)
+- Studied core OOP concepts: encapsulation, abstraction, inheritance, and polymorphism
+- Analyzed how OOP applies to JavaScript and web development
+- Connected OOP concepts to my coding project
+
+---
+
+### OOP Concepts
+
+This week I learned about Object-Oriented Programming (OOP), which is a programming paradigm used to organize code into objects that contain both data and behavior. OOP helps make code more structured, reusable, and maintainable. :contentReference[oaicite:0]{index=0}
+
+The main concepts of OOP include:
+
+**1. Encapsulation**
+Encapsulation means restricting direct access to data and using methods to control it. This helps protect data and prevents errors.
+
+Example in my project:
+- Task data is controlled through functions (add, delete, update)
+- Users cannot directly modify task data without using the system logic
+
+---
+
+**2. Abstraction**
+Abstraction hides complex implementation details and only shows what is necessary.
+
+Example in my project:
+- Users interact with buttons (Add Task, Delete Task)
+- They do not see how the JavaScript logic works behind the scenes
+
+---
+
+**3. Inheritance**
+Inheritance allows one class to reuse properties and methods from another class.
+
+Although I did not fully implement inheritance yet, I could use it in the future:
+- A base "User" class
+- Extended classes like "Admin" or "Team Member"
+
+---
+
+**4. Polymorphism**
+Polymorphism allows different objects to behave differently using the same method.
+
+Example idea:
+- A function that handles different types of tasks (high priority, low priority)
+- The behavior changes depending on the task type
+
+---
+
+### Applying OOP to My Project
+
+In my task management application, I used JavaScript to structure functionality in a way that reflects OOP principles.
+
+For example:
+
+- Tasks act like objects with properties:
+  - title
+  - description
+  - priority
+  - status
+
+- Functions act like methods:
+  - createTask()
+  - deleteTask()
+  - moveTask()
+
+Even though I did not create full classes, JavaScript still supports object-based programming, which allows me to organize my code effectively.
+
+---
+
+### Programming Language and OOP
+
+My project uses JavaScript.
+
+JavaScript is a **multi-paradigm language**, meaning it supports:
+- Object-Oriented Programming (OOP)
+- Functional programming
+
+JavaScript supports OOP through:
+- objects
+- classes (ES6)
+- prototypes
+
+This makes it flexible and suitable for web development.
+
+---
+
+### Coding Project Progress
+
+This week I focused on improving my application functionality.
+
+I:
+- implemented task creation using a modal
+- added delete functionality for tasks
+- added "clear all tasks" feature
+- implemented filtering (priority and status)
+- improved UI animations and interactivity
+- added localStorage to persist tasks
+
+These improvements made the application more realistic and user-friendly.
+
+---
+
+### Reflection
+
+The most challenging part this week was understanding how OOP applies to JavaScript, since it is different from traditional OOP languages like Java or C++.
+
+I overcame this by relating OOP concepts to my own project. Instead of thinking about complex class structures, I focused on how my tasks and functions already behave like objects and methods.
+
+I learned that OOP is not just about using classes, but about organizing code in a structured and reusable way.
+
+Overall, this week helped me improve both my coding skills and my understanding of how real applications are designed.
