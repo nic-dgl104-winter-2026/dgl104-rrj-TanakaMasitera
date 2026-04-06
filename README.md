@@ -413,9 +413,8 @@ I used the filter() method to display tasks based on user selection, such as pri
 Example:
 ```javascript
 tasks.filter(task => task.priority === selectedPriority);
-
+```
 ---
-
 ## Conclusion
 
 Throughout this project, I developed a task management application that allowed users to create, organize, and track their tasks efficiently. Over the course of several weeks, I learned how to design and build a multi-page web application using HTML, CSS, and JavaScript.
