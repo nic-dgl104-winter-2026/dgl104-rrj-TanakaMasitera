@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_sd3gEwm)
-# Rsearch and Reflection Journal
+# Research and Reflection Journal
 Research and Reflection Journal for DGL 104 course
 
 ## Week 8 — Research Activity: Programming Language (Lua)
@@ -413,3 +413,40 @@ I used the filter() method to display tasks based on user selection, such as pri
 Example:
 ```javascript
 tasks.filter(task => task.priority === selectedPriority);
+
+---
+
+## Conclusion
+
+Throughout this project, I developed a task management application that allowed users to create, organize, and track their tasks efficiently. Over the course of several weeks, I learned how to design and build a multi-page web application using HTML, CSS, and JavaScript.
+
+One of the most important things I learned was how to structure an application properly. Concepts such as design patterns, MV* architecture, Object-Oriented Programming (OOP), and functional programming helped me understand how to organize code in a way that is scalable and maintainable.
+
+I also improved my problem-solving skills by debugging issues related to UI updates, filtering logic, and file structure. Learning how to connect different parts of the application, such as the interface and logic, was a valuable experience.
+
+Additionally, I gained insight into real-world development practices, including GitHub workflows and open source contributions. This helped me understand how developers collaborate and manage projects.
+
+Overall, this project helped me grow as a developer by improving both my technical skills and my understanding of application design. If I had more time, I would continue developing the backend using Node.js and MongoDB to make the application fully functional.
+
+This experience has prepared me for future projects where I will apply these skills in more advanced and real-world scenarios.
+
+---
+
+## References
+
+- Node.js. (2026). *Node.js Official Website*. https://nodejs.org  
+- Express.js. (2026). *Express Web Framework*. https://expressjs.com  
+- Mozilla Developer Network (MDN). (2026). *JavaScript Documentation*. https://developer.mozilla.org  
+- Font Awesome. (2026). *Icon Library*. https://fontawesome.com  
+- GitHub. (2026). *GitHub Platform*. https://github.com  
+- Lua.org. (2026). *Lua Programming Language Documentation*. https://www.lua.org/docs.html  
+- Tutorialspoint. (2026). *Lua Tutorial*. https://www.tutorialspoint.com/lua/index.htm  
+- FreeCodeCamp. (2026). *Open Source Platform*. https://github.com/freeCodeCamp/freeCodeCamp  
+- Appwrite. (2026). *Backend-as-a-Service Platform*. https://github.com/appwrite/appwrite  
+- First Contributions. (2026). *Beginner Open Source Guide*. https://github.com/firstcontributions/first-contributions
+
+---
+
+# Research and Reflection Journal  
+**Course:** DGL 104  
+**Student:** Tanaka Masitera  
