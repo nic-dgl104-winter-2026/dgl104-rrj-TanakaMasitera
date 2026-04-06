@@ -376,3 +376,40 @@ I overcame this by relating OOP concepts to my own project. Instead of thinking 
 I learned that OOP is not just about using classes, but about organizing code in a structured and reusable way.
 
 Overall, this week helped me improve both my coding skills and my understanding of how real applications are designed.
+
+---
+
+## Week 12 (Mar 24)
+
+### Activities
+- Learned about functional programming concepts
+- Explored array methods such as map(), filter(), and reduce()
+- Continued working on my coding project
+- Improved application features and user interface
+
+---
+
+### Functional Programming
+
+This week I learned about functional programming, which is a programming paradigm that focuses on using functions to process data rather than modifying it directly.
+
+Functional programming is commonly used when working with collections like arrays. Instead of using traditional loops, it uses built-in methods such as:
+- map()
+- filter()
+- reduce()
+
+These methods make code more concise, readable, and easier to maintain.
+
+---
+
+### Applying Functional Programming to My Project
+
+In my task management application, I applied functional programming concepts in several areas.
+
+**1. Filtering Tasks**
+
+I used the filter() method to display tasks based on user selection, such as priority or status.
+
+Example:
+```javascript
+tasks.filter(task => task.priority === selectedPriority);
