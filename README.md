@@ -169,4 +169,92 @@ Overall, this week improved my understanding of how real-world software projects
 
 ---
 
+## Week 10 (Mar 11)
 
+### Activities
+- Learned about MV* architectural patterns (MVC, MVVM, MVP)
+- Reviewed external repository contribution guidelines
+- Explored contributing documentation (README, CONTRIBUTING.md)
+- Forked a repository and prepared for contribution
+- Started working on an open source issue
+
+---
+
+### MV* Patterns Research
+
+This week I learned about MV* patterns, which are architectural patterns used to structure applications. Unlike design patterns, which solve small problems, MV* patterns organize the entire application structure. :contentReference[oaicite:0]{index=0}
+
+The main MV* patterns include:
+
+**1. MVC (Model-View-Controller)**
+- Model: Handles data and logic
+- View: Displays UI
+- Controller: Handles user input
+- Common in web frameworks like Ruby on Rails
+
+**2. MVVM (Model-View-ViewModel)**
+- ViewModel connects UI and data
+- Common in modern frameworks like React and mobile apps
+
+**3. MVP (Model-View-Presenter)**
+- Presenter handles logic instead of controller
+- Used in some mobile and UI-heavy applications
+
+These patterns helped me understand how large applications are structured and how frontend and backend interact.
+
+---
+
+### External Contribution Guidelines
+
+I reviewed the contributing guidelines for the First Contributions repository.
+
+Key things I learned:
+- Always fork the repository before making changes
+- Create a new branch instead of working on main
+- Follow clear commit message practices
+- Submit a pull request after completing changes
+- Follow the project’s code of conduct
+
+The repository provided clear instructions for beginners, which made it easier to understand how to contribute.
+
+---
+
+### Contribution Work
+
+This week I:
+- Forked the repository to my GitHub account
+- Cloned the repository locally
+- Created a new branch for my changes
+- Identified the issue I want to work on
+- Started making changes related to the issue
+
+This was my first time preparing a real contribution workflow.
+
+---
+
+### Coding Project Progress
+
+I continued working on my task management application.
+
+This week I:
+- Improved the UI design of my pages
+- Structured the application using multiple HTML pages
+- Added styling using CSS (glassmorphism design)
+- Began implementing JavaScript logic for interactivity
+
+I also started thinking about how to structure my app using concepts similar to MVC:
+- HTML → View
+- JavaScript → Controller
+- Task data → Model
+
+---
+
+### Reflection
+
+The most challenging part this week was understanding how to contribute to an external repository. There were many steps involved, such as forking, cloning, and working with branches.
+
+I overcame this challenge by following documentation carefully and breaking the process into smaller steps.
+
+Learning about MV* patterns helped me understand how to organize my own project better. I realized that separating UI, logic, and data makes the application easier to manage and scale.
+
+Overall, this week improved my understanding of both real-world collaboration and application architecture.
